@@ -1,0 +1,5 @@
+hello! everybody how are you
+I am Moatasem from Syria
+and I will show you my project
+my project is simple searcher
+for a words in a document file
